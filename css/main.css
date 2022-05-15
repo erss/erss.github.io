@@ -1,7 +1,7 @@
 body { margin: 60px auto; width: 70%; }
 body {
   background-color: #101010;
-  color: #ffffff;
+  color: #d1c7c7; /*#ffffff */
 }
 a { text-decoration: none; color: #9B59B6; }
 a:hover { text-decoration: underline; }
