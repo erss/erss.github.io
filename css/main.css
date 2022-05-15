@@ -7,7 +7,7 @@ a { text-decoration: none; color: #9B59B6; }
 a:hover { text-decoration: underline; }
 
 /* p, ul { font-size: 1.5em; line-height: 1.4em; color: #333; }  #ffffff */
-p, ul { font-size: 1.5em; line-height: 1.4em; color: #d1c7c7; }
+p, ul { font-size: 1.2em; line-height: 1.4em; color: #d1c7c7; }
 h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 h1 { font-size: 3em;  }
 h2 { font-size: 2.7em; }
@@ -29,7 +29,7 @@ ul.posts li { list-style: none; }
 .cv h2 {text-decoration: underline; font-size: 1.2em; }
 .cv p {text-indent: -36px; padding-left: 36px;}
 .cv li {padding-left: 36px;}
-.cv address, .cv .download { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
+.cv address, .cv .download { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; font-size: 1.2em; color: #3b8f27}
 .cv address, .cv p { font-size: 1.2em; }
 .cv .download { float: right; font-size: 1.8em;} /*  text-transform: uppercase;  */
 
