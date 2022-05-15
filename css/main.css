@@ -26,14 +26,8 @@ ul.posts li { list-style: none; }
 /* CV */
 .cv { margin: 0px 0px 60px; }
 .cv h1 { font-size: 3em; }
-
- <style>
-   .cv h2 { font-size: 2em; }
-       div.a {
-            text-indent: -36px;
-            padding-left: 36px;
-        }
-    </style>
+.cv h2 { font-size: 2em; }
+.cv {text-indent: -36px; padding-left: 36px;}
 .cv address, .cv .download { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 .cv address, .cv p { font-size: 1.2em; }
 .cv .download { float: right; font-size: 1.8em;} /*  text-transform: uppercase;  */
